@@ -1,0 +1,28 @@
+~HTML Series~  
+  * Learn the basics of HTML: - Introduction to HTML                                          * Learn the intermediate of HTML: - HTML5 Semantic Elements
+      1-2 weeks (1-2 hour)    - Text Formatting and Semantics                                      3-4 week (1-2 hour)          - Forms: Advanced Features
+                              - Links and Navigation                                                                            - Accessibility (A11Y)
+                              - Images                                                                                          - Multimedia: Advanced Usage
+                              - Tables                                                                                          - Tables: Enhancing Usability        
+                              - Forms and Inputs                                                                                - Meta Tags and SEO
+                              - HTML Document Structure                                                                         - Responsive Design Basics
+                              - Multimedia                                                                                      - Inline Frames and Embeds
+                              - Comments                                                                                        - Custom Data Attributes      
+                              - Practice Projects:|Personal Bio Page: Create a simple page introduction yourself|               - Practice Projects:|Portfolio Website: Include semantic and responsive features|
+                                                  |Simple Blog Layout: Use headings, paragraphs, and links|                                         |Blog Layout: Use Advanced and Multimedia elements|    
+                                                  |Contact Form: Include inputs for name, email and a message|                                      |Interactive Form: include validation and custom data attributes|
+                                                  |Photo Gallery: Use <img> tags to create a grid of images|                                        |Responsive Landing Page: add SEO-Friendly meta tags and responsive images|
+                                  
+                                                            == Estimated study time: 3 months by spending 1-2 hours per day==
+
+~CSS Series~~ 
+  * Learn the basics of CSS: - Introduction to CSS           * Learn the intermediate of CSS: - CSS layout Techniques                * Learn the advanced of CSS: - Advanced Selectors
+        1-2 weeks            - Selectors                             4–6 Weeks                - Grid Layout                                6–12 Weeks             - Advanced CSS Grid       
+        (1-2 hour)           - Box Model                             (1-2 hour)               - Media Queries (responsive design)           (1-2 hour             - Advanced Animations
+                             - Text and Font Styling                                          - Pseudo classes and Pseudo elements                                - CSS Frameworks
+                             - Backgrounds                                                    - Transitions and Animations                                        - CSS Preprocessors
+                             - Colors                                                         - Custom Properties (CSS Variables)                                 - Responsive Images
+                             - Units                                                          - Shadows                                                           - Clipping and Masking
+                             - Positioning                                                                                                                        - Accessibility in CSS
+                                                                                                                                                                  - CSS Optimization
+                                                                                                                                                                  - CSS Architecture
