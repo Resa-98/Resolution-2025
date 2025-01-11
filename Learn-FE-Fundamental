@@ -1,4 +1,5 @@
-~HTML Series~  
+ ~HTML Series~
+
   * Learn the basics of HTML: - Introduction to HTML                                          * Learn the intermediate of HTML: - HTML5 Semantic Elements
       1-2 weeks               - Text Formatting and Semantics                                      3-4 week                     - Forms: Advanced Features
       (1-2 hour)              - Links and Navigation                                               (1-2 hour)                   - Accessibility (A11Y)
@@ -15,10 +16,11 @@
                                   
                                                             == Estimated study time: 3 months by spending 1-2 hours per day==
 
-~CSS Series~~ 
+~CSS Series~~
+
   * Learn the basics of CSS: - Introduction to CSS           * Learn the intermediate of CSS: - CSS layout Techniques                * Learn the advanced of CSS: - Advanced Selectors
         1-2 weeks            - Selectors                             4–6 Weeks                - Grid Layout                                6–12 Weeks             - Advanced CSS Grid       
-        (1-2 hour)           - Box Model                             (1-2 hour)               - Media Queries (responsive design)           (1-2 hour             - Advanced Animations
+        (1-2 hour)           - Box Model                             (1-2 hour)               - Media Queries (responsive design)           (1-2 hour)            - Advanced Animations
                              - Text and Font Styling                                          - Pseudo classes and Pseudo elements                                - CSS Frameworks
                              - Backgrounds                                                    - Transitions and Animations                                        - CSS Preprocessors
                              - Colors                                                         - Custom Properties (CSS Variables)                                 - Responsive Images
